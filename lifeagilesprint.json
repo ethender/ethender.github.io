@@ -36,7 +36,7 @@
                 "name":"Openstack - {Neutron}",
                 "size":4000
               }
-            ],
+            ]
           },{
             "name":"Books",
             "children":[
