@@ -1,10 +1,17 @@
 {
-  "name":"Sprint 9",
+  "name":"BP Sprint 2",
   "children":[{
       "name": "Project",
       "children":[
         {
           "name":"HATEOS POC",
+          "size":5000
+        },{
+          "name":"Transactional",
+          "size":5000
+        },
+        {
+          "name":"ActiveMQ",
           "size":5000
         }
       ]
@@ -13,6 +20,9 @@
       "children":[{
         "name":"Neutron",
         "size":5000
+        },{
+          "name":"Nova",
+          "size":5000
         }]
       }]
 }
