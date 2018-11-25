@@ -4,56 +4,25 @@
       "name": "Project",
       "children":[
         {
-          "name":"HATEOS POC",
+          "name":"TRANSACTIONAL POC",
+          "size":4000
+        },{
+          "name":"Learn Database connections",
           "size":4000
         }
       ]
     },{
-      "name":"Operations",
-      "children":[{
-        "name":"Neutron",
-        "size":4000
-        }]
-      },{
         "name":"Education",
         "children":[
           {
             "name":"Topics",
             "children":[
               {
-                "name":"Datastructure {Recitation}",
+                "name":"Datastructure {Logarithms, Book}",
                 "size":4000
               },
               {
                 "name":"IELTS - {2 Papers}",
-                "size":4000
-              },
-              {
-                "name":"Spring - {Beans}",
-                "size":4000
-              },
-              {
-                "name":"Openstack - {Neutron}",
-                "size":4000
-              }
-            ]
-          },{
-            "name":"Books",
-            "children":[
-              {
-                "name":"Datastructure {20 Pages}",
-                "size":4000
-              },
-              {
-                "name":"Spring {Beans, AOP}",
-                "size":4000
-              },
-              {
-                "name":"Openstack {20 Pages}",
-                "size":4000
-              },
-              {
-                "name":"Security Analysis { Start }",
                 "size":4000
               }
             ]
@@ -64,10 +33,6 @@
         "children":[
           {
             "name":"Accion Labs Reference Letter",
-            "size":4000
-          },
-          {
-            "name":"Confirmation Email",
             "size":4000
           }
         ]
